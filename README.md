@@ -2,7 +2,6 @@
 title: "Google Data Analytics Case Study 1: Divvy Bike-Share"
 output:
   html_document:
-    output_dir: "C:/Users/rober/OneDrive/Documents/Cyclistic_capstone_git"
 author: Robert Zurawski
 date: "2025-03-01"
 ---
