@@ -52,7 +52,7 @@ In this Project, we collected data from the bike-share company Divvy. We collect
 
   First, we had a suspicion that annual members use the service more on weekdays for transportation to and from work, while casual members use it more on weekends for leisure. We confirmed that suspicion by plotting the counts for each type of user compared with the day of the week. In order to convert these casual riders into annual memberships, we can launch a new weekend only membership. This will be offered at a slight discount and have an "Upgrade to Annual Membership" option. 
 
-![Cyclistic Capstone Report](RPlot_Weekend.png)
+![Alt text for the image](Rplot_Weekend.png)
 
 #### Rider Seasonality
 
