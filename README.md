@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This is optional path 1 of the Google Professional Data Analytics Certification Capstone project. In this case study, I will be using r to perform a real-world task for a fictional company in order to demonstrate the analytic ability of a junior data analyst. Data was collected from the real bike-share company, Divvy.
+This is optional path 1 of the Google Professional Data Analytics Certification Capstone project. In this case study, I will be using R to perform a real-world task for a fictional company in order to demonstrate the analytic ability of a junior data analyst. Data was collected from the real bike-share company, Divvy.
 
 
 
