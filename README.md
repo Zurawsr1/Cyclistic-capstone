@@ -58,19 +58,22 @@ In this Project, we collected data from the bike-share company Divvy. We collect
 
   Next, since the data measures users in Chicago, we assumed all users would take a dip during the Winter months. If this hypothesis is correct, it will not affect our analysis, but we still must check to make sure there are no other patterns between user types. The team confirmed this by graphing rides per month for casual riders and annual members.
 
-(Add Image of Graph)
+![Alt text for the image](Rplot_Month.png)
+
 
 #### Kind of Bike
 
   The data shows bike usage differences between annual members and casual riders. Annual members have much higher overall use than casual riders. Both users prefer the electric bikes to a classic bike, but there isn't a huge discrepancy between these. Casual riders ride electric scooters more than annual members, but overall scooter usage is comparatively low to bikes.
 
-(Add Image of Graph)
+![Alt text for the image](Rplot_Type.png)
+
 
 #### Ride Time
 
   To get an idea of how long users were riding, we broke down ride time between casual riders and annual members. Overall, most users were riding for less than 20 minutes a session, however, longer rides are more popular with casual riders than annual members. Because of this, we should consider targeting casual users with longer rides with email signups that will get them a slightly discounted ride. We can then start an email advertising campaign to sway these casual users. 
 
-(Add Image of Graph
+![Alt text for the image](Rplot_Time.png)
+
 
 ### Conclusion
 
